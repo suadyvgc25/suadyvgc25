@@ -8,7 +8,7 @@ For more than 20 years, I've built software across enterprise organizations, con
 
 My goal is simple:
 
-**Build AI software that delivers measurable business value—not just AI demos.**
+**Build AI software that delivers measurable business.**
 
 ---
 
