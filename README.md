@@ -112,6 +112,14 @@ Alongside AI development, I continue building scalable software focused on clean
 
 Spotify playlist application demonstrating modern frontend architecture, authentication, API integrations, and user experience.
 
+🔗 Live Demo
+
+https://suadyvgc25.github.io/playlist-engine/
+
+💻 Source Code
+
+https://github.com/suadyvgc25/playlist-engine
+
 **Tech**
 
 React • TypeScript • Spotify API • OAuth PKCE
