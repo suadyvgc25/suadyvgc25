@@ -12,6 +12,8 @@ My goal is simple:
 
 ---
 
+[View My Portfolio](https://suadyvgc25.github.io/)
+
 # 🚀 Current Focus
 
 I'm currently focused on building production AI systems including:
@@ -201,6 +203,10 @@ I'm passionate about building intelligent software that solves meaningful busine
 
 I'm always interested in connecting with engineers, founders, product leaders, and organizations building the next generation of AI-powered software.
 
+### Portfolio
+
+https://suadyvgc25.github.io/
+  
 ### GitHub
 
 https://github.com/suadyvgc25
