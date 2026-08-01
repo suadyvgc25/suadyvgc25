@@ -12,7 +12,7 @@ My goal is simple:
 
 ---
 
-[View My Portfolio](https://suadyvgc25.github.io/)
+[View My Portfolio](https://suadyrinaldi.com)
 
 # 🚀 Current Focus
 
@@ -205,7 +205,7 @@ I'm always interested in connecting with engineers, founders, product leaders, a
 
 ### Portfolio
 
-https://suadyvgc25.github.io/
+https://suadyrinaldi.com
   
 ### GitHub
 
@@ -213,7 +213,7 @@ https://github.com/suadyvgc25
 
 ### LinkedIn
 
-www.linkedin.com/in/suady-rinaldi-883830a
+www.linkedin.com/in/suady-rinaldi
 
 ---
 ⭐ Thanks for visiting my profile!
